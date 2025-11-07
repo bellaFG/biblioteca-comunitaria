@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.tmp
+*.dbmdl
+*.vsidx
+appsettings.Development.json
