@@ -1,11 +1,10 @@
 .vs/
-.vscode/
 bin/
 obj/
 *.user
-*.suo
-*.log
+*.db
+*.sqlite
+*.sqlite3
+*.bak
 *.tmp
-*.dbmdl
-*.vsidx
-appsettings.Development.json
+*.log
